@@ -1,6 +1,6 @@
 # BLEU
 
-manual.py根据BLEU远离手动实现
+manual.py根据BLEU原理手动实现
 
 NLTKpackage.py 直接调用 nltk 中BLEU库函数实现
 
